@@ -1,0 +1,6 @@
+{
+  "name": "Omega Academic Coaching",
+  "description": "Premier academic coaching institute providing rigorous STEM, board exam, and competitive university entrance preparation with expert faculty, mock assessments, and personalized mentorship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
